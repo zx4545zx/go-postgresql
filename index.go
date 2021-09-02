@@ -21,9 +21,9 @@ type Users []User
 const (
 	host     = "localhost"
 	port     = 5432
-	user     = "postgres"
-	password = "zx4545zx"
-	dbname   = "Testdb"
+	user     = "nattaponhordkhuntod"
+	password = ""
+	dbname   = ""
 )
 
 func dbConnect() {
